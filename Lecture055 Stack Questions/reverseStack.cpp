@@ -1,4 +1,3 @@
-
 void insertAtBottom(stack<int> &s, int element) {
     //basecase
     if(s.empty()) {
